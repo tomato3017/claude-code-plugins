@@ -1,0 +1,17 @@
+{
+  "name": "radio-multi",
+  "version": "0.3.0",
+  "description": "/radio-multi lists radio stations (add/delete from the menu) and opens the chosen one in the default browser",
+  "author": {
+    "name": "tomato3017"
+  },
+  "types": "./types/index.d.ts",
+  "license": "MIT",
+  "keywords": [
+    "radio",
+    "music",
+    "browser"
+  ],
+  "repository": "https://github.com/tomato3017/claude-code-plugins",
+  "homepage": "https://github.com/tomato3017/claude-code-plugins/tree/main/plugins/radio-multi"
+}

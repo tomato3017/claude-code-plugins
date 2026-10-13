@@ -1,0 +1,13 @@
+{
+  "name": "claude-code-plugins",
+  "description": "Claude Code plugins by tomato3017",
+  "owner": {
+    "name": "tomato3017"
+  },
+  "plugins": [
+    {
+      "name": "radio-multi",
+      "source": "./plugins/radio-multi"
+    }
+  ]
+}
