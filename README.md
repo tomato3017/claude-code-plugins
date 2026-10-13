@@ -1,4 +1,4 @@
-# claude-code-plugins
+# tomato-claude-mods
 
 A [Claude Code](https://claude.com/claude-code) plugin marketplace.
 
@@ -7,7 +7,7 @@ A [Claude Code](https://claude.com/claude-code) plugin marketplace.
 Add the marketplace and install a plugin in one step:
 
 ```
-/plugin install <plugin> --marketplace tomato3017/claude-code-plugins
+/plugin install <plugin> --marketplace tomato3017/tomato-claude-mods
 ```
 
 Answer `y` to add the marketplace, then choose a scope.

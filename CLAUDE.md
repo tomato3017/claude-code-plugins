@@ -1,4 +1,4 @@
-# claude-code-plugins
+# tomato-claude-mods
 
 A Claude Code plugin marketplace. Each plugin is a mod (hooks module) in `plugins/<name>/`.
 

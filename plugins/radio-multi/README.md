@@ -5,7 +5,7 @@ A [Claude Code](https://claude.com/claude-code) mod. `/radio-multi` opens a pane
 ## Install
 
 ```
-/plugin install radio-multi --marketplace tomato3017/claude-code-plugins
+/plugin install radio-multi --marketplace tomato3017/tomato-claude-mods
 ```
 
 Answer `y` to add the marketplace, then choose a scope.
